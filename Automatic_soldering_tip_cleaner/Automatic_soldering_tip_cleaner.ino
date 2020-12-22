@@ -1,9 +1,9 @@
-const int STATUS_LED_PIN = 10;
-const int INPUT_SENSOR_PIN = 12;
-const int MOTOR_OUTPUT_PIN = 13;
+const int STATUS_LED_PIN = 3;
+const int INPUT_SENSOR_PIN = 1;
+const int MOTOR_OUTPUT_PIN = 2;
 
 const int TIME_OF_CLEANING = 4;
-const int AFTER_CLEANING_DELAY = 2;
+const int AFTER_CLEANING_DELAY = 1;
 
 void setup() {
   // put your setup code here, to run once:
